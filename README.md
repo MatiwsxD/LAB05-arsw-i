@@ -4,13 +4,13 @@ Escriba un servidor web que soporte multiples solicitudes seguidas (no concurren
 paginas html e imagenes.
 # LOC/h. Rendimiento
 
-1. desde las 11:00 am, hasta las 12:30 pm - fueron en total 32 lineas
-2. desde las 7:36 pm, hasta las 8:55 pm - fueron en total 102 lineas
+1. desde las 8:00 pm, hasta las 10:30 pm - fueron en total 151 lineas
+2. desde las 6:36 pm, hasta las 9:23 pm - fueron en total 63 lineas
 
 
-LOC = (134L/2.5h)
+LOC = (214L/6h)
 
-## 53.6 LOC
+## 35.6 LOC
 
 ## Link heroku: https://desolate-lake-49595.herokuapp.com/
 
