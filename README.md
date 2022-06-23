@@ -59,8 +59,9 @@ java -cp ".\target\classes" edu.escuelaing.arem.fijaspicas.app.PicasYFilasGame;
 4. Gana si consigue adivinar la lista de numeros en su orden correcto.
 
 ## Diagrama de clases
+"La imagen se encuentra en la carpeta img, por alguna razon no logro que se cargue cuando subo el repo a github"
 
-![Imágen 1](../../LAB05-arsw-i/img/1.png)
+![Imágen 1](LAB05-arsw-i/img/1.png)
 
 
 
