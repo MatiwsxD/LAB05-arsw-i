@@ -61,7 +61,7 @@ java -cp ".\target\classes" edu.escuelaing.arem.fijaspicas.app.PicasYFilasGame;
 ## Diagrama de clases
 "La imagen se encuentra en la carpeta img, por alguna razon no logro que se cargue cuando subo el repo a github"
 
-![Imágen 1](LAB05-arsw-i/img/1.png)
+![1](https://user-images.githubusercontent.com/42101956/175193387-6de70ab7-3a79-498c-978f-268ed07bea4c.png)
 
 
 
