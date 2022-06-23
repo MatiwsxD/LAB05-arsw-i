@@ -60,7 +60,7 @@ java -cp ".\target\classes" edu.escuelaing.arem.fijaspicas.app.PicasYFilasGame;
 
 ## Diagrama de clases
 
-![Imágen 1](../../Lab06/FijasPicas/img/1.png)
+![Imágen 1](../../LAB05-arsw-i/img/1.png)
 
 
 
