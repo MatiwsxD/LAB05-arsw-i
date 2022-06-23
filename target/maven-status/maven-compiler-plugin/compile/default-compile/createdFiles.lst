@@ -1,0 +1,5 @@
+edu\escuelaing\arem\fijaspicas\app\services\servicesPicasFijas.class
+edu\escuelaing\arem\fijaspicas\app\PicasYFilasGame.class
+edu\escuelaing\arem\fijaspicas\app\model\Cantidades.class
+edu\escuelaing\arem\fijaspicas\app\controller\picasyfijasController.class
+edu\escuelaing\arem\fijaspicas\app\persistence\FijasPicas.class
