@@ -1,7 +1,6 @@
 # TAREA 5 ARSW 
 
-Escriba un servidor web que soporte multiples solicitudes seguidas (no concurrentes). El servidor debe retornar todos los archivos solicitados, incluyendo
-paginas html e imagenes.
+Juego de Picas y Fijas
 # LOC/h. Rendimiento
 
 1. desde las 8:00 pm, hasta las 10:30 pm - fueron en total 151 lineas
